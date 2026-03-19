@@ -18,6 +18,8 @@
 
 
 
-Contact-me:
+### Contact-me:
 
-<img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/ba4df4af-b694-4978-9e37-8c494d1625aa" /> **witoreduardo020@gmail.com**
+Gmail: **witoreduardo020@gmail.com**
+
+Discord: **_wittor**
