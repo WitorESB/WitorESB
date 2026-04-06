@@ -23,3 +23,5 @@
 Gmail: **witoreduardo020@gmail.com**
 
 Discord: **_wittor**
+Portfólio: **https://www.behance.net/wittor_**
+YouTube: **https://www.youtube.com/@wittor_**
